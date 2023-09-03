@@ -22,8 +22,9 @@
 
 <p>
   <!-- Gift -->
-  <img align="right" alt="Jordi Palacios | GIFT" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/> <br>
+  <img align="right" alt="Jordi Palacios | GIFT" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
+<p style='margin:10px;'></p>
 
 - 📌 Working on improving my techskill
 - 📚 Learning React & Tailwind
@@ -40,6 +41,8 @@
 <code><img height="20" alt="Jordi Palacios | tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="20" alt="Jordi Palacios | npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="20" alt="Jordi Palacios | git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<br>
+<br>
 <br>
 <br>
 <hr>
