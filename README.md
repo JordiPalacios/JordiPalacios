@@ -22,7 +22,7 @@
 
 <p>
   <!-- Gift -->
-  <img align="right" alt="Jordi Palacios | GIFT" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+  <img align="right" alt="Jordi Palacios | GIFT" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/> <br>
 </p>
 
 - 📌 Working on improving my techskill
@@ -40,8 +40,6 @@
 <code><img height="20" alt="Jordi Palacios | tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="20" alt="Jordi Palacios | npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="20" alt="Jordi Palacios | git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<br>
-<br>
 <br>
 <br>
 <hr>
