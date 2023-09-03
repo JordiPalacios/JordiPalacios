@@ -46,6 +46,6 @@
 <hr>
 
 ### 💾 My latest projects
-Project | Code | Web |
-| --- | --- | --- |
-| Tic Tac Toe | [Look](projects/02-tic-tac-toe/) | [Visit](https://palacios-react01.surge.sh/) |
+Number | Project | Code | Web |
+| --- | --- | --- | --- |
+| `01`| Tic Tac Toe | [Look](01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
