@@ -1,5 +1,6 @@
 <p align="center">
-  <h5 align="center">¡Hey! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h5>
+  <img align="center" width="200" src="https://github.com/JordiPalacios/Fotos/blob/main/programando-modified-circle.png" />
+  <p align="center">¡Hey! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></p>
   <h3 align="center">
     I'm <strong>Jordi Palacios</strong> 👨‍💻
   </h3>
@@ -24,13 +25,11 @@
   <img align="right" alt="GIFT" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
 
-<p align="left">
-  - 👨🏽‍💻 I’m currently working on improving my techskill;
-  - 🌱 I’m currently learning React & Tailwind; 
-  - 👯 I’m looking to collaborate on WebDevelopment;
-  - 💬 Ask me about anything, I am happy to help;
-  - ⚡️ Fun-Fact: Anything is possible;
-</p>
+- 📌 Working on improving my techskill
+- 📚 Learning React & Tailwind
+- 🤝 Looking to collaborate on web and frontend development projects
+- 🚧 Creating new projects - Available soon...
+<br>
 
 **Languages and Tools:**  
 <br>
@@ -41,5 +40,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <br>
+<br>
+<br>
+<br>
+<hr>
 
 ### 💾 My latest projects
+Project | Code | Web |
+| --- | --- | --- |
+| Tic Tac Toe | [Look](projects/02-tic-tac-toe/) | [Visit](https://palacios-react01.surge.sh/) |
