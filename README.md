@@ -1,4 +1,6 @@
-### Hi there 👋
+### ¡Hey👋! Soy Jordi Palacios 
+<b>Desarrollasdor Frontend</b> en constante aprendizaje </br>
+<small>¡ Revisa mis proyectos !</small>
 
 <!--
 **JordiPalacios/JordiPalacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
