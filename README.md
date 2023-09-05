@@ -50,4 +50,4 @@
 ### 💾 My latest projects
 Number | Project | Code | Web |
 | --- | --- | --- | --- |
-| `01`| Tic Tac Toe | [Look](01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
+| `01`| Tic Tac Toe | [Look](TicTacToe/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
