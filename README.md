@@ -50,4 +50,6 @@
 ### 💾 My latest projects
 Number | Project | Code | Web |
 | --- | --- | --- | --- |
-| `01`| Tic Tac Toe | [Look](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
+| `01`| Tic Tac Toe | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
+| `02`| Pokédex | [Code] | [Visit] |
+| `03`| Rock Paper Scissors | [Code] | [Visit] |
