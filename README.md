@@ -50,6 +50,6 @@
 ### 💾 My latest projects
 Number | Project | Code | Web |
 | --- | --- | --- | --- |
-| `01`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /><b> Tic Tac Toe </b> | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
-| `02`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /><b> Pokémon 1st Generation </b>| [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit] |
-| `03`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /><b> Rock Paper Scissors </b>| [Code](https://github.com/JordiPalacios/RockPaperScissors) | [Visit] |
+| `01`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Tic Tac Toe </b> | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
+| `02`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Pokémon 1st Generation </b>| [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit] |
+| `03`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Rock Paper Scissors </b>| [Code](https://github.com/JordiPalacios/RockPaperScissors) | [Visit] |
