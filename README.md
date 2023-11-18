@@ -51,5 +51,5 @@
 Number | Project | Code | Web |
 | --- | --- | --- | --- |
 | `01`| Tic Tac Toe | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
-| `02`| Pokédex | [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit] |
+| `02`| Pokémon 1st Generation | [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit] |
 | `03`| Rock Paper Scissors | [Code](https://github.com/JordiPalacios/RockPaperScissors) | [Visit] |
