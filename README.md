@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/jordi-palacios-g%C3%B3mez-529046164/" target="blank" style='margin-right:4px'>
     <img align="center" alt="Jordi Palacios | Linkedin" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/palaciosweb/" target="blank" style='margin-right:4px'>
+  <a href="https://www.instagram.com/jordi_code/" target="blank" style='margin-right:4px'>
     <img align="center" alt="Jordi Palacios | Instagram" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
 </p>
