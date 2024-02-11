@@ -29,7 +29,7 @@
 - 📌 Working on improving my techskill
 - 📚 Learning React & Tailwind
 - 🤝 Looking to collaborate on web and frontend development projects
-- 🚧 Creating new website for <a href='https://www.instagram.com/visualshow360?igshid=YmMyMTA2M2Y=' style="text-decoration: none;"> VisualShow360 </a>
+- 🚧 Creating new website for <a href='https://www.instagram.com/visualshow360?igshid=YmMyMTA2M2Y=' style="text-decoration: none"> VisualShow360 </a>
 <br>
 
 **Languages and Tools:**  
