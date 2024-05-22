@@ -2,7 +2,7 @@
   <img align="center" width="200" alt="Jordi Palacios" src="https://github.com/JordiPalacios/Fotos/blob/main/programando-modified-circle.png" />
   <p align="center">¡Hey! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></p>
   <h3 align="center">
-    I'm <strong>Jordi Palacios</strong> 👨‍💻
+    I'm <a href="https://jordicode.dev/"><strong>Jordi Palacios</strong></a> 👨‍💻
   </h3>
 </p>
 
