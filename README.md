@@ -48,7 +48,7 @@
 ### 💾 My latest projects
 Number | Project | Code | Web |
 | --- | --- | --- | --- |
-| `01`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> VisualShow360 Website </b> | [Code](https://github.com/JordiPalacios/VisualShow360Web?tab=readme-ov-file) | [Visit](https://visualshow360.com/) |
-| `02`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Teléfono Auidiolibro Website </b> | [Code](https://github.com/JordiPalacios/VisualShow360Web?tab=readme-ov-file) | [Visit](https://telefonoaudiolibro.es/) |
+| `01`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Teléfono Auidiolibro Website </b> | [Code]([https://github.com/JordiPalacios/VisualShow360Web?tab=readme-ov-file](https://github.com/JordiPalacios/TelefonoAudiolibro.es)) | [Visit](https://telefonoaudiolibro.es/) |
+| `02`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> VisualShow360 Website </b> | [Code](https://github.com/JordiPalacios/VisualShow360Web?tab=readme-ov-file) | [Visit](https://visualshow360.com/) |
 | `03`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Tic Tac Toe </b> | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
 | `04`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Pokémon 1st Generation </b>| [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit](https://jordicode-pokemon1stgeneration.surge.sh/) |
