@@ -29,7 +29,6 @@
 - 📌 Working on improving my techskill
 - 📚 Learning React & Tailwind
 - 🤝 Looking to collaborate on web and frontend development projects
-- 🚧 Creating new website for <a href='https://www.instagram.com/telefonoaudiolibro.es?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='>TelefonoAudioLibro</a>
 <br>
 
 **Languages and Tools:**  
@@ -50,5 +49,6 @@
 Number | Project | Code | Web |
 | --- | --- | --- | --- |
 | `01`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> VisualShow360 Website </b> | [Code](https://github.com/JordiPalacios/VisualShow360Web?tab=readme-ov-file) | [Visit](https://visualshow360.com/) |
-| `02`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Tic Tac Toe </b> | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
-| `03`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Pokémon 1st Generation </b>| [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit](https://jordicode-pokemon1stgeneration.surge.sh/) |
+| `02`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Teléfono Auidiolibro Website </b> | [Code](https://github.com/JordiPalacios/VisualShow360Web?tab=readme-ov-file) | [Visit](https://telefonoaudiolibro.es/) |
+| `03`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Tic Tac Toe </b> | [Code](https://github.com/JordiPalacios/TicTacToe/tree/master/01-TicTacToe) | [Visit](https://palacios-react01.surge.sh/) |
+| `04`|<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><b> Pokémon 1st Generation </b>| [Code](https://github.com/JordiPalacios/Pokemon1stGeneration) | [Visit](https://jordicode-pokemon1stgeneration.surge.sh/) |
